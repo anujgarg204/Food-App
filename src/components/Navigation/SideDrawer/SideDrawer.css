@@ -28,5 +28,6 @@ transition: transform 0.3s ease-out;
 
 .Logo{
     height: 11%;
+    margin-bottom: 32px;
 }
-   
+

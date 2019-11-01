@@ -1,3 +1,5 @@
+Visit: https://food-app-cbb1c.firebaseapp.com/ to see the app
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
